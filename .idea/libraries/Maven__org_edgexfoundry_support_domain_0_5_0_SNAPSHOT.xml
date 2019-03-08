@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.edgexfoundry:support-domain:0.5.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/edgexfoundry/support-domain/0.5.0-SNAPSHOT/support-domain-0.5.0-20180808.162631-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/org/edgexfoundry/support-domain/0.5.0-SNAPSHOT/support-domain-0.5.0-20180808.162631-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/edgexfoundry/support-domain/0.5.0-SNAPSHOT/support-domain-0.5.0-20180808.162631-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

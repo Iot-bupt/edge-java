@@ -1,0 +1,16 @@
+The following open source projects are referenced by Support Logging:
+
+Spring Cloud (Apache 2.0) - http://projects.spring.io/spring-cloud/
+https://github.com/spring-cloud/spring-cloud-release/blob/master/LICENSE.txt
+
+Spring Boot (Apache 2.0) - https://projects.spring.io/spring-boot/
+https://github.com/spring-projects/spring-boot/blob/master/LICENSE.txt
+
+Spring Framework (Apache 2.0) - http://projects.spring.io/spring-framework/
+https://github.com/spring-projects/spring-framework
+
+SLF4J (MIT) - org.slf4j
+https://www.slf4j.org/license.html
+
+LOGBack ( dual-licensed under the EPL v1.0 and the LGPL 2.1) - https://logback.qos.ch/
+https://logback.qos.ch/license.html

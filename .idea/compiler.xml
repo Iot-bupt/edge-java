@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="core-command" />
+        <module name="core-command-client" />
+        <module name="core-data" />
+        <module name="core-data-client" />
+        <module name="core-domain" />
+        <module name="core-exception" />
+        <module name="core-metadata" />
+        <module name="core-metadata-client" />
+        <module name="core-test" />
+        <module name="device-sdk" />
+        <module name="device-virtual" />
+        <module name="support-domain" />
+        <module name="support-logging" />
+        <module name="support-logging-client" />
+        <module name="support-notifications" />
+        <module name="support-notifications-client" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="core-command" target="1.8" />
+      <module name="core-command-client" target="1.8" />
+      <module name="core-data" target="1.8" />
+      <module name="core-data-client" target="1.8" />
+      <module name="core-domain" target="1.8" />
+      <module name="core-exception" target="1.8" />
+      <module name="core-metadata" target="1.8" />
+      <module name="core-metadata-client" target="1.8" />
+      <module name="core-test" target="1.8" />
+      <module name="device-sdk" target="1.8" />
+      <module name="device-virtual" target="1.8" />
+      <module name="EdgeX" target="1.5" />
+      <module name="support-domain" target="1.8" />
+      <module name="support-logging" target="1.5" />
+      <module name="support-logging-client" target="1.8" />
+      <module name="support-notifications" target="1.8" />
+      <module name="support-notifications-client" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

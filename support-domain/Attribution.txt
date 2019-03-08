@@ -1,0 +1,13 @@
+The following open source projects are referenced by Support Domain:
+
+Spring Data MongoDB (Apache 2.0) - http://projects.spring.io/spring-data-mongodb/
+No License page available
+
+Spring Framework (Apache 2.0) - http://projects.spring.io/spring-framework/
+https://github.com/spring-projects/spring-framework
+
+Spring Boot (Apache 2.0) - https://projects.spring.io/spring-boot/
+https://github.com/spring-projects/spring-boot/blob/master/LICENSE.txt
+
+Jackson Annotations (Apache 2.0) - https://github.com/FasterXML/jackson-annotations/wiki/Jackson-Annotations
+https://github.com/FasterXML/jackson-annotations

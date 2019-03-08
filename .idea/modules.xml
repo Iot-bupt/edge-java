@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/EdgeX.iml" filepath="$PROJECT_DIR$/.idea/EdgeX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-command/core-command.iml" filepath="$PROJECT_DIR$/core-command/core-command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-command-client/core-command-client.iml" filepath="$PROJECT_DIR$/core-command-client/core-command-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-data/core-data.iml" filepath="$PROJECT_DIR$/core-data/core-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-data-client/core-data-client.iml" filepath="$PROJECT_DIR$/core-data-client/core-data-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-domain/core-domain.iml" filepath="$PROJECT_DIR$/core-domain/core-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-exception/core-exception.iml" filepath="$PROJECT_DIR$/core-exception/core-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-metadata/core-metadata.iml" filepath="$PROJECT_DIR$/core-metadata/core-metadata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-metadata-client/core-metadata-client.iml" filepath="$PROJECT_DIR$/core-metadata-client/core-metadata-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-test/core-test.iml" filepath="$PROJECT_DIR$/core-test/core-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/device-sdk/device-sdk.iml" filepath="$PROJECT_DIR$/device-sdk/device-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/device-virtual/device-virtual.iml" filepath="$PROJECT_DIR$/device-virtual/device-virtual.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support-domain/support-domain.iml" filepath="$PROJECT_DIR$/support-domain/support-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support-logging/support-logging.iml" filepath="$PROJECT_DIR$/support-logging/support-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support-logging-client/support-logging-client.iml" filepath="$PROJECT_DIR$/support-logging-client/support-logging-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support-notifications/support-notifications.iml" filepath="$PROJECT_DIR$/support-notifications/support-notifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support-notifications-client/support-notifications-client.iml" filepath="$PROJECT_DIR$/support-notifications-client/support-notifications-client.iml" />
+    </modules>
+  </component>
+</project>

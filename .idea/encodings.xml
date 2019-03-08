@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/core-command" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-command-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-data" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-data-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-exception" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-metadata" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-metadata-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/device-sdk" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/device-virtual" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/support-domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/support-logging" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/support-logging-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/support-notifications" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/support-notifications-client" charset="UTF-8" />
+  </component>
+</project>
